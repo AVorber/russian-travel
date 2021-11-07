@@ -4,3 +4,10 @@
   justify-content: space-between;
   margin: 92px auto 24px;
 }
+
+@media all and (max-width: 1024px) {
+  .footer {
+    width: calc(100% - 48px);
+    margin: 88px auto 24px;
+  }
+}
