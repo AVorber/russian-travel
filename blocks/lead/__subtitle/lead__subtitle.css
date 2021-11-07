@@ -6,3 +6,11 @@
   font-weight: normal;
   margin: 32px 0 0;
 }
+
+@media all and (max-width: 768px) {
+  .lead__subtitle {
+    line-height: 20px;
+    font-size: 16px;
+    margin: 16px 0 0;
+  }
+}

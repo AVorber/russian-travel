@@ -13,3 +13,10 @@
 .header__lang-link:hover {
   opacity: 0.8;
 }
+
+@media all and (max-width: 768px) {
+  .header__lang-link {
+    line-height: 20px;
+    font-size: 18px;
+  }
+}

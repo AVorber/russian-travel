@@ -18,3 +18,10 @@
     column-gap: 28px;
   }
 }
+
+@media all and (max-width: 768px) {
+  .place {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    row-gap: 32px;
+  }
+}

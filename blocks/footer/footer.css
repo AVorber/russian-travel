@@ -11,3 +11,11 @@
     margin: 88px auto 24px;
   }
 }
+
+@media all and (max-width: 768px) {
+  .footer {
+    width: calc(100% - 32px);
+    flex-direction: column;
+    margin: 66px auto 22px;
+  }
+}

@@ -6,3 +6,11 @@
   font-weight: normal;
   margin: 0;
 }
+
+@media all and (max-width: 768px) {
+  .footer__copyright {
+    line-height: 14px;
+    font-size: 14px;
+    margin: 48px 0 0;
+  }
+}

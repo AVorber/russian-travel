@@ -9,3 +9,10 @@
   position: absolute;
   top: 58%;
 }
+
+@media all and (max-width: 768px) {
+  .cover__subtitle {
+    line-height: 16px;
+    font-size: 14px;
+  }
+}

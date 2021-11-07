@@ -12,3 +12,11 @@
     width: calc(100% - 48px);
   }
 }
+
+@media all and (max-width: 768px) {
+  .header {
+    width: calc(100% - 32px);
+    max-height: 42px;
+    margin: 16px auto 0;
+  }
+}
