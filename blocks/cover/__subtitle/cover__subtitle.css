@@ -5,14 +5,13 @@
   font-size: 18px;
   font-weight: normal;
   color: #FFF;
-  margin: 0;
-  position: absolute;
-  top: 58%;
+  margin: 32px auto 0;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
   .cover__subtitle {
     line-height: 16px;
     font-size: 14px;
+    margin: 16px auto 0;
   }
 }
