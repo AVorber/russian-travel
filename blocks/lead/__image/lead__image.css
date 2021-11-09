@@ -9,12 +9,6 @@
   }
 }
 
-@media all and (max-width: 1024px) {
-  .lead__image {
-    width: calc(100% + 48px);
-  }
-}
-
 @media all and (max-width: 768px) {
   .lead__image {
     margin-top: 40px;

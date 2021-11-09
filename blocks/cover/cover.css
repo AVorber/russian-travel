@@ -39,7 +39,7 @@
 
 @media all and (max-width: 768px) {
   .cover {
-    width: calc(100% + 32px);
+    width: 100%;
     margin: 66px 0 0;
   }
 }

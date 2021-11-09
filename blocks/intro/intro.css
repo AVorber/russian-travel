@@ -20,6 +20,7 @@
 
 @media all and (max-width: 768px) {
   .intro {
+    width: calc(100% - 32px);
     margin: 64px auto 0;
   }
 }
