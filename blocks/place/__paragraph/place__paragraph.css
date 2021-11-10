@@ -17,9 +17,11 @@
 
 @media all and (max-width: 767px) {
   .place__paragraph {
-     margin: 0 16px 26px 16px;
+    letter-spacing: 0.02em;
+    margin: 0 16px 26px 16px;
   }
   .place__paragraph:last-of-type {
+    letter-spacing: 0.02em;
     margin: 0 16px 0 16px;
   }
 }
