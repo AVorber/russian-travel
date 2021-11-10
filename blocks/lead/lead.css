@@ -16,9 +16,3 @@
     width: 100%;
   }
 }
-
-@media all and (max-width: 767px) {
-  .lead {
-    width: 100%;
-  }
-}
