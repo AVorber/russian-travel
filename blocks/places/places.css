@@ -15,6 +15,7 @@
 @media all and (max-width: 1023px) {
   .places {
     width: calc(100% - 48px);
+    gap: 73px;
     margin: 88px auto 0;
   }
 }
@@ -22,6 +23,7 @@
 @media all and (max-width: 767px) {
   .places {
     width: 100%;
+    gap: 50px;
     margin: 64px 0 0;
   }
 }
