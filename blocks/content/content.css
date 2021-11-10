@@ -9,13 +9,13 @@
 @media screen and (max-width: 1279px) {
   .content {
     max-width: 1024px;
+    margin: 48px auto 0;
   }
 }
 
 @media all and (max-width: 1023px) {
   .content {
     max-width: 768px;
-    margin: 48px auto 0;
   }
 }
 

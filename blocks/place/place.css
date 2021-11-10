@@ -14,7 +14,7 @@
 
 @media all and (max-width: 1023px) {
   .place {
-    grid-template-columns: repeat(auto-fit, 340px);
+    grid-template-columns: 340px max-content;
     column-gap: 28px;
   }
 }
