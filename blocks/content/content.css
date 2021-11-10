@@ -6,19 +6,19 @@
   align-items: center;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .content {
     max-width: 928px;
   }
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1023px) {
   .content {
     max-width: 720px;
   }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
   .content {
     max-width: 320px;
     margin: 48px auto 0;

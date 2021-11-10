@@ -6,13 +6,13 @@
   margin: 92px auto 0;
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1023px) {
   .photo-grid {
     margin: 88px auto 0;
   }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
   .photo-grid {
     width: calc(100% - 32px);
     margin: 64px auto 0;
