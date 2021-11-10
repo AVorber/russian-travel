@@ -14,14 +14,14 @@
 
 @media all and (max-width: 1023px) {
   .place {
-    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fit, 340px);
     column-gap: 28px;
   }
 }
 
 @media all and (max-width: 767px) {
   .place {
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, 320px);
     row-gap: 32px;
   }
 }
